@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ajay Bandi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Computer Science; Mississippi State University, USA"
+  bio              : "Associate Professor of Computer Science; Northwest Missouri State University, USA"
   location         : "Missouri, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=YL0ezRcAAAAJ"
   email            : "AJAY@nwmissouri.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ajay-Bandi-2"
   uri              :
   bitbucket        :
   codepen          :
