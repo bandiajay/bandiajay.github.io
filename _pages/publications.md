@@ -4,14 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2022
 
+# 2021
 * Ajay Bandi and Julio Ariel Hurtado "Big Data Streaming Architecture for Edge Computing Using Kafka and Rockset," In Proceedings of 2021 5th International Conference on Computing Methodologies and Communication (ICCMC). April 2021.
 
+# 2020
 * Abdelaziz Fellah and Ajay Bandi “Microservice-based Architectures: An Evolutionary Software Development Model,” In Proceedings of The 33rd International Conference on Computer Applications in Industry and Engineering. USA: ISCA, Oct. 2020.[pdf]
 
 * Ajay Bandi and Aziz Fellah “Cognitive Informatics in Emergency Disaster Management Systems,” In Proceedings of 29th International Conference on Software Engineering and Data Engineering. USA: ISCA, Oct. 2020.[pdf]
 
+
 * Abdelaziz Fellah, Ajay Bandi, and Mahmoud Yousef, “Moving Towards Program Comprehension in Software Development: A Case Study” in Proceedings of the Fourth International Conference on Computing Methodologies and Communication (ICCMC 2020), Feb. 2020, pp. 660-665.[pdf]
+
+# 2019
+
 
 * Aziz Fellah, and Ajay Bandi, “Learning Language Equations and Regular Languages using Alternating Finite Automata” Journal of Computing Science in Colleges, 35(2), Oct. 2019, pp. 19-28.[pdf]
 
@@ -23,9 +30,35 @@ author_profile: true
 
 * Ajay Bandi, Abdelaziz Fellah, and Harish Bondalapati “Embedding security concepts in introductory programming courses,” Journal of Computing Science in Colleges, 34(4), April. 2019, pp. 78-89. [pdf]
 
+# 2018
+
 * Ajay Bandi, Abdelaziz Fellah, Harish Bondalapati, and Mark Corson, “Mobile Usability Testing: Gathering Evidence for Designing User Interfaces for Emergency Disaster Management Systems,” in Proceedings of ISCA 28th International Conference on Software Engineering and Data Engineering, New Orleans, Louisiana, USA: ISCA, Oct. 2018. [pdf]
-Abdelaziz Fellah, and Ajay Bandi, “The essence of recursion: Reduction, delegation, and visualization,” Journal of Computing Science in Colleges, 33(5), April. 2018, pp. 115-123.[pdf]
-Ruida Zeng, Ajay Bandi, and Abdelaziz Fellah, “Designing a brain-computer interface using EMOTIV headset and programming languages,” in Proceedings of the Second International Conference Methodologies and Communication (ICCMC 2018). IEEE. Feb. 2018.[pdf]
+
+* Abdelaziz Fellah, and Ajay Bandi, “The essence of recursion: Reduction, delegation, and visualization,” Journal of Computing Science in Colleges, 33(5), April. 2018, pp. 115-123.[pdf]
+
+* Ruida Zeng, Ajay Bandi, and Abdelaziz Fellah, “Designing a brain-computer interface using EMOTIV headset and programming languages,” in Proceedings of the Second International Conference Methodologies and Communication (ICCMC 2018). IEEE. Feb. 2018.[pdf]
+
+# 2017
+
+# 2016
+
+# 2015
+
+# 2014
+
+# 2013
+
+
+
+
+
+
+
+
+
+
+
+
 Ajay Bandi, and Abdelaziz Fellah, “Crafting a data visualization course for the tech industry". Journal of Computing Sciences in Colleges, 33(2), Dec. 2017, pp. 46-56.[pdf]
 Ajay Bandi, Abdelaziz Fellah, "Design issues for converting websites to mobile sites and apps: A case study,"in Proceedings of International Conference on Computing Methodologies and Communication (ICCMC 2017). Erode, India: IEEE, July. 2017. [pdf]  
 Ajay Bandi, "Developers perspective on architectural violations: A survey," in Proceedings of ISCA 25th International Conference on Software Engineering and Data Engineering. Denver, Colorado, USA: ISCA, Sep. 2016.[pdf]
