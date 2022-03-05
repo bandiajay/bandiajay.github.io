@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2022 (4 conference papers and 2 journal papers)
+# 2022
 
 # 2021
 * Ajay Bandi and Julio Ariel Hurtado "Big Data Streaming Architecture for Edge Computing Using Kafka and Rockset," In Proceedings of 2021 5th International Conference on Computing Methodologies and Communication (ICCMC). April 2021.
